@@ -17,3 +17,4 @@
 
 ![badge](https://img.shields.io/badge/Deployment-Up-green)
 
+![Netlify Status](https://api.netlify.com/api/v1/badges/e5dcbd71-f751-4f64-82ad-b8ca486d528a/deploy-status)
